@@ -1,89 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jenny Asquith
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Web Developer, Junior Data Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="http://github.com/byui-math-dept/lydang_spring24">	Academic Projects Link 1</a>
 </div>
 
+<div id="webaddress">
+| <a href="http://https://github.com/lillyasquith"> Academic Projects Link2</a>
+</div>
 
+---
 ## Currently
 
-Standing on the shoulders of giants
+Student at BYU-Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Web Development | Databases`
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Laguages: Python · C# · HTML5 · CSS · JavaScript · SQL · MySQL · SQL Server Management Studio
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Bachelor of Science in Applied Technology - April 2025`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Brigham Young University–Idaho__
 
-- Sizar
+Overall GPA: 3.91 / 4.00
 
-`1667 - death`
-__Trinity College, Cambridge__
+•	Implemented data dictionary, database security, backup and recovery, and explored cloud server solutions using SQL Server Management Studio and Google Cloud Platform.
 
-- Fellow
+•	Designed and managed relational databases for CRUD interactions
 
+•	Practiced writing queries to a database combining multiple tables to retrieve desired information.
 
+•	Employed Quarto and Python to analyze data and generate visually enhanced reports
 
-## Awards
+•	Applied Python, HTML/CSS, and JavaScript to build various programs and applications. 
 
-`2012`
-President, *Royal Society*, London, UK
+•	Created and maintained web frontends according to current standards of validity and practice
 
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
+`Full-Time Volunteer Representative`
 
+__The Church of Jesus Christ of Latter-day Saints__
 
-## Publications
+•	Located in Kansai region, Japan for 18 months to coordinate with other volunteers, assist in teaching English classes and participate in religious volunteering activities
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+•	Mentored 3 new volunteers to enhance their skills for the service
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+•	Became proficient in communication, interpersonal, English and Japanese skills
 
 
-## Occupation
+## Additional Information
 
-`1600`
-__Royal Mint__, London
+•	Hard Skills: SQL Server Management Studio, Database Administration, SQL, MySQL, Data Visualization, Data Analytics, Excel, Python, C#, HTML5, CSS, JavaScript
 
-- Warden
-- Minted coins
+•	Soft skills: Detail oriented, Critical thinking, Teamwork & collaboration, Work ethic, Digital technology, Strong communication skills
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+•	Certifications: Web and Computer Programing Certificate (2023), Database (in progress)
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->

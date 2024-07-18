@@ -1,45 +1,157 @@
 [
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Jenny Asquith",
+    "section": "",
+    "text": "Web Developer, Junior Data Analyst"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Jenny Asquith",
+    "section": "Currently",
+    "text": "Currently\nStudent at BYU-Idaho\n\nSpecialized in\nWeb Development | Databases\nLaguages: Python · C# · HTML5 · CSS · JavaScript · SQL · MySQL · SQL Server Management Studio"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Jenny Asquith",
+    "section": "Education",
+    "text": "Education\nBachelor of Science in Applied Technology - April 2025\nBrigham Young University–Idaho\nOverall GPA: 3.91 / 4.00\n• Implemented data dictionary, database security, backup and recovery, and explored cloud server solutions using SQL Server Management Studio and Google Cloud Platform.\n• Designed and managed relational databases for CRUD interactions\n• Practiced writing queries to a database combining multiple tables to retrieve desired information.\n• Employed Quarto and Python to analyze data and generate visually enhanced reports\n• Applied Python, HTML/CSS, and JavaScript to build various programs and applications.\n• Created and maintained web frontends according to current standards of validity and practice"
+  },
+  {
+    "objectID": "resume.html#awards",
+    "href": "resume.html#awards",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+  },
+  {
+    "objectID": "resume.html#occupation",
+    "href": "resume.html#occupation",
+    "title": "Jenny’s CV",
+    "section": "",
+    "text": "Student"
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Cleansing_Projects/project4.html",
@@ -53,66 +165,15 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
+      "Data Cleansing",
       "Project 2"
     ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Cleansing_Exploration/project5.html",
@@ -122,60 +183,18 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "cleansing.html",
@@ -198,174 +217,11 @@
     ]
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Cleansing_Exploration/project4.html",
@@ -375,71 +231,24 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Project 1]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Elevator pitch\nThis project will bring satisfaction to our clients, who have had a passion for names throughout history. It provides dynamic charts and graphs, enabling our clients to explore the data more deeply and gain better insights into how often specific names were given to children in a particular year. Additionally, our clients can examine how the usage of names, especially a name from a famous movie, has changed over time. Moreover, we will analyze how the popularity of the names Mary, Martha, Peter, and Paul has shifted from 1920 to 2000.\n\n\nRead and format project data\n# Include and execute your code here\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byuidatascience/data4names/master/data-raw/names_year/names_year.csv\")\ndf\n\n\n\n\n\n\n\n\n\n\nname\nyear\nAK\nAL\nAR\nAZ\nCA\nCO\nCT\nDC\n...\nTN\nTX\nUT\nVA\nVT\nWA\nWI\nWV\nWY\nTotal\n\n\n\n\n0\nAaden\n2005\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n...\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n5.0\n\n\n1\nAaden\n2007\n0.0\n5.0\n0.0\n5.0\n20.0\n6.0\n0.0\n0.0\n...\n5.0\n14.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n98.0\n\n\n2\nAaden\n2008\n0.0\n15.0\n13.0\n20.0\n135.0\n10.0\n9.0\n0.0\n...\n15.0\n99.0\n8.0\n26.0\n0.0\n11.0\n19.0\n5.0\n0.0\n939.0\n\n\n3\nAaden\n2009\n0.0\n28.0\n20.0\n23.0\n158.0\n22.0\n12.0\n0.0\n...\n33.0\n140.0\n6.0\n17.0\n0.0\n31.0\n23.0\n14.0\n0.0\n1242.0\n\n\n4\nAaden\n2010\n0.0\n8.0\n6.0\n12.0\n62.0\n9.0\n5.0\n0.0\n...\n9.0\n56.0\n0.0\n11.0\n0.0\n7.0\n12.0\n0.0\n0.0\n414.0\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n393379\nZyon\n2011\n0.0\n0.0\n0.0\n6.0\n0.0\n0.0\n0.0\n0.0\n...\n5.0\n9.0\n0.0\n8.0\n0.0\n0.0\n0.0\n0.0\n0.0\n117.0\n\n\n393380\nZyon\n2012\n0.0\n0.0\n0.0\n0.0\n5.0\n0.0\n0.0\n0.0\n...\n0.0\n7.5\n0.0\n12.0\n0.0\n0.0\n0.0\n0.0\n0.0\n118.5\n\n\n393381\nZyon\n2013\n0.0\n0.0\n0.0\n0.0\n6.0\n0.0\n0.0\n0.0\n...\n0.0\n5.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n93.0\n\n\n393382\nZyon\n2014\n0.0\n7.0\n0.0\n0.0\n0.0\n0.0\n0.0\n5.0\n...\n0.0\n7.0\n0.0\n9.0\n0.0\n0.0\n0.0\n0.0\n0.0\n73.0\n\n\n393383\nZyon\n2015\n0.0\n0.0\n0.0\n0.0\n7.0\n0.0\n0.0\n0.0\n...\n0.0\n10.0\n0.0\n8.0\n0.0\n0.0\n0.0\n0.0\n0.0\n87.5\n\n\n\n\n393384 rows × 54 columns\n\n\n\n\n\n\nQUESTION|TASK 1\nHow does your name at your birth year compare to its use historically?\nI chose to analyze the name Oliver and the year 2010 to find out its historical trends. Starting in 1910, the total number of occurrences of the name ‘Oliver’ was 279. The trend continued to increase, peaking in the year 2015 with 11,592 occurrences.\n\n\nShow the code\nname = df.query(\"name == 'Oliver'\") \nname\n\n\n\n\n\n\n\n\n\n\nname\nyear\nAK\nAL\nAR\nAZ\nCA\nCO\nCT\nDC\n...\nTN\nTX\nUT\nVA\nVT\nWA\nWI\nWV\nWY\nTotal\n\n\n\n\n295866\nOliver\n1910\n0.0\n19.0\n10.0\n0.0\n5.0\n0.0\n6.0\n0.0\n...\n16.0\n15.0\n0.0\n10.0\n0.0\n0.0\n0.0\n6.0\n0.0\n279.0\n\n\n295867\nOliver\n1911\n0.0\n14.0\n7.0\n0.0\n5.0\n0.0\n0.0\n0.0\n...\n7.0\n22.0\n0.0\n12.0\n0.0\n0.0\n7.0\n8.0\n0.0\n306.0\n\n\n295868\nOliver\n1912\n0.0\n21.0\n11.0\n0.0\n10.0\n6.0\n0.0\n0.0\n...\n21.0\n41.0\n0.0\n25.0\n0.0\n7.0\n17.0\n6.0\n0.0\n612.0\n\n\n295869\nOliver\n1913\n0.0\n23.0\n8.0\n0.0\n11.0\n6.0\n6.0\n0.0\n...\n20.0\n34.0\n0.0\n21.0\n0.0\n7.0\n16.0\n8.0\n0.0\n608.0\n\n\n295870\nOliver\n1914\n0.0\n36.0\n17.0\n0.0\n24.0\n0.0\n8.0\n5.0\n...\n29.0\n37.0\n0.0\n18.0\n0.0\n8.0\n21.0\n10.0\n0.0\n835.0\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n295967\nOliver\n2011\n27.0\n36.0\n35.0\n91.0\n693.0\n148.0\n70.0\n32.0\n...\n86.0\n351.0\n145.0\n124.0\n27.0\n189.0\n171.0\n20.0\n8.0\n5406.0\n\n\n295968\nOliver\n2012\n25.0\n50.0\n46.0\n118.0\n748.0\n164.0\n61.0\n25.0\n...\n99.0\n426.0\n144.0\n123.0\n25.0\n207.0\n178.0\n11.0\n12.0\n5913.0\n\n\n295969\nOliver\n2013\n24.0\n63.0\n61.0\n153.0\n885.0\n178.0\n74.0\n38.0\n...\n135.0\n499.0\n174.0\n195.0\n28.0\n268.0\n189.0\n25.0\n11.0\n7254.0\n\n\n295970\nOliver\n2014\n32.0\n101.0\n69.0\n212.0\n1128.0\n229.0\n101.0\n45.0\n...\n194.0\n665.0\n224.0\n221.0\n35.0\n324.0\n298.0\n37.0\n14.0\n9411.0\n\n\n295971\nOliver\n2015\n41.0\n121.0\n105.0\n210.0\n1349.0\n255.0\n105.0\n38.0\n...\n231.0\n921.0\n280.0\n267.0\n35.0\n397.0\n305.0\n41.0\n21.0\n11592.0\n\n\n\n\n106 rows × 54 columns\n\n\n\n\n\n\nShow the code\nfig = px.line(name, x=\"year\", y=\"Total\", title= \"Popularity over time for Oliver\") \n\nfig.add_annotation(\n    x=\"1910\",\n    y=279,\n    text=\"Starting point\",\n    showarrow=True, \n    arrowhead=1\n)\n\nfig.add_annotation(\n    x=\"2015\",\n    y=11592,\n    text=\"Peak\",\n    showarrow=True, \n    arrowhead=1\n)\n\nfig.show()\n\n\n                                                \n\n\n\n\nQUESTION|TASK 2\nIf you talked to someone named Brittany on the phone, what is your guess of his or her age? What ages would you not guess?\nPeople named Brittany should be between 9 and 56 years old. Based on the results of the database, we observe that the name Brittany began appearing in the year 1968 with a total of 5 occurrences, reached its peak in 1990 with 32,563 occurrences, and then gradually declined, ceasing altogether in 2015 with a total of 636 occurrences.\n\n\nShow the code\nname_Bri = df.query(\"name == 'Brittany'\") \nname_Bri\n\n\n\n\n\n\n\n\n\n\nname\nyear\nAK\nAL\nAR\nAZ\nCA\nCO\nCT\nDC\n...\nTN\nTX\nUT\nVA\nVT\nWA\nWI\nWV\nWY\nTotal\n\n\n\n\n53205\nBrittany\n1968\n0.0\n0.0\n0.0\n0.0\n5.0\n0.0\n0.0\n0.0\n...\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n5.0\n\n\n53206\nBrittany\n1969\n0.0\n0.0\n0.0\n0.0\n7.0\n0.0\n0.0\n0.0\n...\n0.0\n5.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n12.0\n\n\n53207\nBrittany\n1970\n0.0\n0.0\n0.0\n0.0\n5.0\n5.0\n0.0\n0.0\n...\n0.0\n7.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n32.0\n\n\n53208\nBrittany\n1971\n0.0\n0.0\n0.0\n5.0\n17.0\n0.0\n0.0\n0.0\n...\n0.0\n14.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n81.0\n\n\n53209\nBrittany\n1972\n0.0\n0.0\n0.0\n0.0\n11.0\n10.0\n0.0\n0.0\n...\n8.0\n14.0\n16.0\n0.0\n0.0\n0.0\n5.0\n0.0\n0.0\n158.0\n\n\n53210\nBrittany\n1973\n0.0\n0.0\n0.0\n6.0\n17.0\n0.0\n0.0\n0.0\n...\n0.0\n18.0\n13.0\n0.0\n0.0\n0.0\n5.0\n0.0\n0.0\n166.0\n\n\n53211\nBrittany\n1974\n0.0\n0.0\n7.0\n0.0\n19.0\n0.0\n0.0\n0.0\n...\n0.0\n17.0\n28.0\n0.0\n0.0\n7.0\n0.0\n0.0\n0.0\n198.0\n\n\n53212\nBrittany\n1975\n0.0\n0.0\n0.0\n0.0\n28.0\n0.0\n0.0\n0.0\n...\n10.0\n23.0\n28.0\n0.0\n0.0\n9.0\n5.0\n0.0\n0.0\n277.0\n\n\n53213\nBrittany\n1976\n0.0\n0.0\n6.0\n0.0\n36.0\n5.0\n0.0\n0.0\n...\n15.0\n35.0\n21.0\n7.0\n0.0\n7.0\n11.0\n0.0\n0.0\n304.0\n\n\n53214\nBrittany\n1977\n0.0\n9.0\n8.0\n5.0\n39.0\n10.0\n0.0\n0.0\n...\n16.0\n48.0\n55.0\n5.0\n0.0\n0.0\n7.0\n0.0\n0.0\n448.0\n\n\n53215\nBrittany\n1978\n0.0\n8.0\n12.0\n8.0\n50.0\n17.0\n0.0\n0.0\n...\n15.0\n48.0\n67.0\n7.0\n0.0\n11.0\n5.0\n0.0\n0.0\n592.0\n\n\n53216\nBrittany\n1979\n0.0\n6.0\n13.0\n0.0\n47.0\n19.0\n10.0\n0.0\n...\n20.0\n76.0\n63.0\n14.0\n0.0\n13.0\n10.0\n7.0\n8.0\n764.0\n\n\n53217\nBrittany\n1980\n0.0\n11.0\n20.0\n13.0\n121.0\n41.0\n5.0\n0.0\n...\n39.0\n142.0\n110.0\n18.0\n0.0\n36.0\n28.0\n10.0\n10.0\n1383.0\n\n\n53218\nBrittany\n1981\n11.0\n23.0\n32.0\n22.0\n127.0\n37.0\n14.0\n0.0\n...\n54.0\n166.0\n116.0\n21.0\n0.0\n47.0\n24.0\n10.0\n14.0\n1701.0\n\n\n53219\nBrittany\n1982\n12.0\n50.0\n53.0\n47.0\n290.0\n88.0\n18.0\n5.0\n...\n102.0\n300.0\n152.0\n50.0\n7.0\n73.0\n58.0\n25.0\n16.0\n3093.0\n\n\n53220\nBrittany\n1983\n20.0\n71.0\n80.0\n66.0\n406.0\n131.0\n26.0\n19.0\n...\n133.0\n415.0\n156.0\n83.0\n7.0\n95.0\n68.0\n42.0\n19.0\n4377.0\n\n\n53221\nBrittany\n1984\n34.0\n158.0\n111.0\n112.0\n698.0\n225.0\n59.0\n22.0\n...\n243.0\n735.0\n159.0\n148.0\n6.0\n134.0\n114.0\n78.0\n36.0\n7664.0\n\n\n53222\nBrittany\n1985\n53.0\n351.0\n224.0\n217.0\n715.5\n319.0\n118.0\n48.0\n...\n500.0\n1256.0\n182.0\n390.0\n25.0\n231.0\n260.0\n235.0\n40.0\n14010.0\n\n\n53223\nBrittany\n1986\n49.0\n241.5\n269.0\n309.0\n886.5\n389.0\n165.0\n79.0\n...\n586.0\n792.5\n183.0\n533.0\n45.0\n287.0\n361.0\n229.0\n48.0\n17856.5\n\n\n53224\nBrittany\n1987\n56.0\n528.0\n267.0\n322.0\n977.0\n365.0\n196.0\n97.0\n...\n633.0\n795.5\n193.0\n628.0\n34.0\n289.0\n351.0\n241.0\n42.0\n18825.5\n\n\n53225\nBrittany\n1988\n48.0\n585.0\n304.0\n383.0\n1214.5\n370.0\n271.0\n126.0\n...\n409.5\n925.0\n167.0\n884.0\n43.0\n368.0\n455.0\n270.0\n41.0\n21952.0\n\n\n53226\nBrittany\n1989\n53.0\n837.0\n457.0\n549.0\n1513.0\n439.0\n371.0\n86.5\n...\n537.5\n1266.0\n185.0\n1247.0\n71.0\n500.0\n724.0\n402.0\n50.0\n30848.0\n\n\n53227\nBrittany\n1990\n75.0\n788.0\n440.0\n483.0\n1372.5\n450.0\n345.0\n90.0\n...\n546.5\n1181.5\n173.0\n1229.0\n86.0\n470.0\n671.0\n379.0\n38.0\n32562.5\n\n\n53228\nBrittany\n1991\n55.0\n585.0\n327.0\n379.0\n1155.5\n361.0\n293.0\n132.0\n...\n872.0\n983.0\n140.0\n959.0\n47.0\n363.0\n556.0\n352.0\n43.0\n26963.5\n\n\n53229\nBrittany\n1992\n51.0\n526.0\n282.0\n292.0\n915.0\n325.0\n223.0\n87.0\n...\n726.0\n1785.0\n119.0\n854.0\n57.0\n307.0\n465.0\n292.0\n40.0\n23416.5\n\n\n53230\nBrittany\n1993\n37.0\n511.0\n229.0\n298.0\n1597.0\n275.0\n199.0\n62.0\n...\n637.0\n1547.0\n123.0\n697.0\n44.0\n286.0\n389.0\n242.0\n26.0\n21728.0\n\n\n53231\nBrittany\n1994\n47.0\n422.0\n237.0\n227.0\n666.5\n227.0\n168.0\n72.0\n...\n599.0\n1359.0\n91.0\n641.0\n43.0\n229.0\n351.0\n228.0\n32.0\n17808.5\n\n\n53232\nBrittany\n1995\n34.0\n342.0\n190.0\n202.0\n605.5\n179.0\n156.0\n49.0\n...\n516.0\n1293.0\n110.0\n537.0\n40.0\n216.0\n271.0\n194.0\n19.0\n15875.5\n\n\n53233\nBrittany\n1996\n29.0\n318.0\n163.0\n195.0\n977.0\n163.0\n133.0\n31.0\n...\n400.0\n1147.0\n107.0\n455.0\n25.0\n166.0\n239.0\n147.0\n18.0\n13796.0\n\n\n53234\nBrittany\n1997\n19.0\n253.0\n166.0\n138.0\n825.0\n141.0\n111.0\n24.0\n...\n342.0\n966.0\n85.0\n334.0\n19.0\n147.0\n230.0\n102.0\n7.0\n11527.0\n\n\n53235\nBrittany\n1998\n29.0\n190.0\n109.0\n165.0\n735.0\n134.0\n85.0\n22.0\n...\n324.0\n828.0\n75.0\n310.0\n23.0\n121.0\n170.0\n114.0\n11.0\n9843.0\n\n\n53236\nBrittany\n1999\n18.0\n163.0\n97.0\n114.0\n607.0\n135.0\n69.0\n20.0\n...\n265.0\n698.0\n70.0\n246.0\n13.0\n104.0\n126.0\n83.0\n11.0\n7942.0\n\n\n53237\nBrittany\n2000\n14.0\n111.0\n63.0\n88.0\n354.0\n71.0\n33.0\n14.0\n...\n199.0\n432.0\n41.0\n176.0\n9.0\n59.0\n91.0\n71.0\n6.0\n5183.0\n\n\n53238\nBrittany\n2001\n6.0\n92.0\n43.0\n60.0\n223.0\n35.0\n27.0\n9.0\n...\n109.0\n287.0\n21.0\n83.0\n5.0\n33.0\n33.0\n50.0\n0.0\n2915.0\n\n\n53239\nBrittany\n2002\n0.0\n39.0\n28.0\n32.0\n144.0\n32.0\n9.0\n7.0\n...\n66.0\n206.0\n22.0\n70.0\n5.0\n16.0\n30.0\n29.0\n0.0\n1912.0\n\n\n53240\nBrittany\n2003\n0.0\n32.0\n22.0\n25.0\n148.0\n23.0\n16.0\n5.0\n...\n54.0\n177.0\n16.0\n42.0\n0.0\n15.0\n25.0\n19.0\n0.0\n1559.0\n\n\n53241\nBrittany\n2004\n0.0\n31.0\n23.0\n24.0\n139.0\n20.0\n0.0\n5.0\n...\n50.0\n137.0\n16.0\n37.0\n0.0\n14.0\n18.0\n28.0\n6.0\n1323.5\n\n\n53242\nBrittany\n2005\n0.0\n28.0\n18.0\n29.0\n116.0\n24.0\n7.0\n0.0\n...\n45.0\n148.0\n18.0\n35.0\n0.0\n9.0\n17.0\n13.0\n0.0\n1168.0\n\n\n53243\nBrittany\n2006\n0.0\n20.0\n13.0\n20.0\n121.0\n12.0\n6.0\n0.0\n...\n41.0\n103.0\n9.0\n30.0\n0.0\n10.0\n14.0\n9.0\n0.0\n1009.0\n\n\n53244\nBrittany\n2007\n0.0\n14.0\n12.0\n26.0\n126.0\n14.0\n0.0\n0.0\n...\n45.0\n96.0\n7.0\n27.0\n0.0\n14.0\n9.0\n9.0\n0.0\n891.0\n\n\n53245\nBrittany\n2008\n0.0\n15.0\n0.0\n14.0\n102.0\n5.0\n0.0\n0.0\n...\n30.0\n92.0\n9.0\n19.0\n0.0\n9.0\n16.0\n5.0\n0.0\n749.0\n\n\n53246\nBrittany\n2009\n0.0\n7.0\n6.0\n10.0\n105.0\n12.0\n0.0\n0.0\n...\n18.0\n83.0\n6.0\n26.0\n0.0\n10.0\n7.0\n0.0\n0.0\n644.0\n\n\n53247\nBrittany\n2010\n0.0\n9.0\n0.0\n20.0\n116.0\n9.0\n0.0\n0.0\n...\n31.0\n94.0\n11.0\n22.0\n0.0\n8.0\n6.0\n0.0\n0.0\n698.0\n\n\n53248\nBrittany\n2011\n0.0\n12.0\n7.0\n17.0\n109.0\n10.0\n9.0\n0.0\n...\n18.0\n91.0\n6.0\n32.0\n0.0\n7.0\n11.0\n0.0\n0.0\n717.0\n\n\n53249\nBrittany\n2012\n0.0\n12.0\n13.0\n9.0\n137.0\n11.0\n8.0\n6.0\n...\n23.0\n94.0\n6.0\n24.0\n0.0\n7.0\n10.0\n0.0\n0.0\n745.0\n\n\n53250\nBrittany\n2013\n0.0\n13.0\n0.0\n14.0\n110.0\n7.0\n9.0\n5.0\n...\n11.0\n113.0\n7.0\n25.0\n0.0\n12.0\n8.0\n0.0\n0.0\n699.0\n\n\n53251\nBrittany\n2014\n0.0\n11.0\n5.0\n8.0\n112.0\n9.0\n10.0\n0.0\n...\n21.0\n110.0\n8.0\n15.0\n0.0\n10.0\n6.0\n0.0\n0.0\n660.0\n\n\n53252\nBrittany\n2015\n0.0\n9.0\n6.0\n10.0\n109.0\n11.0\n0.0\n0.0\n...\n16.0\n124.0\n9.0\n26.0\n0.0\n9.0\n0.0\n0.0\n0.0\n636.0\n\n\n\n\n48 rows × 54 columns\n\n\n\n\n\n\nShow the code\nfig = px.line(name_Bri, x=\"year\", y=\"Total\", title= \"Popularity over time for Brittany\") \n\nfig.add_annotation(\n    x=\"1968\",\n    y=5,\n    text=\"Starting point\",\n    showarrow=True,\n    arrowhead=1\n)\nfig.add_annotation(\n    x=\"2015\",\n    y=636,\n    text=\"Ending point\",\n    showarrow=True,\n    arrowhead=1\n)\n\nfig.add_annotation(\n    x=\"1990\",\n    y=32563,\n    text=\"Peak\",\n    showarrow=True,\n    arrowhead=1\n)\nfig.show()\n\n\n                                                \n\n\n\n\nQUESTION|TASK 3\nMary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names. What trends do you notice?\nWe can see that starting in the year 1920, Mary was the most popular name, followed by Paul, then Martha, and Peter was the least popular at that time. They reached their peaks around the 1950s. Then they gradually decreased, ceasing altogether in the 2000s.\n\n\nShow the code\nname_Four = (df\n    .query(\"name in ['Martha', 'Mary', 'Peter', 'Paul']\")\n    .query(\"year &gt;= 1920 and year &lt;= 2000\")\n    )\nname_Four\n\n\n\n\n\n\n\n\n\n\nname\nyear\nAK\nAL\nAR\nAZ\nCA\nCO\nCT\nDC\n...\nTN\nTX\nUT\nVA\nVT\nWA\nWI\nWV\nWY\nTotal\n\n\n\n\n264124\nMartha\n1920\n11.0\n258.0\n224.0\n21.0\n131.0\n66.0\n55.0\n20.0\n...\n416.0\n418.0\n16.0\n269.0\n11.0\n73.0\n116.0\n172.0\n11.0\n8705.0\n\n\n264125\nMartha\n1921\n0.0\n307.0\n216.0\n18.0\n161.0\n70.0\n57.0\n34.0\n...\n420.0\n478.0\n20.0\n297.0\n13.0\n57.0\n101.0\n204.0\n9.0\n9254.0\n\n\n264126\nMartha\n1922\n9.0\n326.0\n219.0\n23.0\n126.0\n67.0\n56.0\n17.0\n...\n421.0\n501.0\n18.0\n273.0\n14.0\n39.0\n82.0\n225.0\n5.0\n9018.0\n\n\n264127\nMartha\n1923\n0.0\n341.0\n236.0\n27.0\n159.0\n63.0\n38.0\n24.0\n...\n442.0\n233.0\n22.0\n293.0\n11.0\n45.0\n72.0\n210.0\n10.0\n8731.0\n\n\n264128\nMartha\n1924\n0.0\n342.0\n257.0\n39.0\n166.0\n58.0\n49.0\n23.0\n...\n507.0\n487.0\n15.0\n155.0\n15.0\n41.0\n72.0\n196.0\n20.0\n9163.0\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n303691\nPeter\n1996\n0.0\n22.0\n8.0\n42.0\n501.0\n55.0\n134.0\n22.0\n...\n30.0\n183.0\n27.0\n103.0\n20.0\n109.0\n114.0\n8.0\n0.0\n4069.0\n\n\n303692\nPeter\n1997\n17.0\n19.0\n5.0\n47.0\n476.0\n44.0\n111.0\n25.0\n...\n24.0\n175.0\n27.0\n73.0\n17.0\n74.0\n98.0\n0.0\n0.0\n3821.0\n\n\n303693\nPeter\n1998\n14.0\n21.0\n8.0\n42.0\n471.0\n42.0\n104.0\n14.0\n...\n27.0\n134.0\n41.0\n78.0\n12.0\n98.0\n89.0\n0.0\n0.0\n3377.0\n\n\n303694\nPeter\n1999\n15.0\n24.0\n9.0\n48.0\n402.0\n66.0\n101.0\n23.0\n...\n30.0\n138.0\n26.0\n105.0\n10.0\n77.0\n81.0\n0.0\n0.0\n3430.0\n\n\n303695\nPeter\n2000\n11.0\n14.0\n11.0\n40.0\n379.0\n66.0\n72.0\n20.0\n...\n26.0\n147.0\n24.0\n62.0\n12.0\n68.0\n70.0\n0.0\n0.0\n3137.0\n\n\n\n\n324 rows × 54 columns\n\n\n\n\n\n\nShow the code\nfig = px.line(name_Four, x=\"year\", y=\"Total\",color=\"name\", title= \"Popularity over time for Mary, Martha, Peter, and Paul\") \n\nfig.show()\n\n\n                                                \n\n\n\n\nQUESTION|TASK 4\nThink of a unique name from a famous movie. Plot the usage of that name and see how changes line up with the movie release. Does it look like the movie had an effect on usage?\nI chose to analyze the name Maximus from the famous movie Gladiator, released in 2000. After the year 2000, the name Maximus became increasingly popular. It reached its peak in 2014 with 2,122 occurrences. In the following year, it declined to 2,031 occurrences. In conclusion, the movie definitely had an effect on its usage.\n\n\nShow the code\nname_unique = df.query(\"name == 'Maximus'\") \nname_unique\n\n\n\n\n\n\n\n\n\n\nname\nyear\nAK\nAL\nAR\nAZ\nCA\nCO\nCT\nDC\n...\nTN\nTX\nUT\nVA\nVT\nWA\nWI\nWV\nWY\nTotal\n\n\n\n\n268700\nMaximus\n2000\n0.0\n0.0\n0.0\n11.0\n36.0\n0.0\n0.0\n0.0\n...\n0.0\n20.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n115.0\n\n\n268701\nMaximus\n2001\n8.0\n0.0\n0.0\n22.0\n152.0\n26.0\n14.0\n0.0\n...\n9.0\n75.0\n15.0\n14.0\n0.0\n23.0\n15.0\n0.0\n0.0\n857.0\n\n\n268702\nMaximus\n2002\n0.0\n0.0\n5.0\n22.0\n139.0\n25.0\n15.0\n0.0\n...\n0.0\n83.0\n12.0\n17.0\n0.0\n31.0\n15.0\n0.0\n0.0\n862.0\n\n\n268703\nMaximus\n2003\n0.0\n0.0\n0.0\n20.0\n128.0\n17.0\n7.0\n0.0\n...\n9.0\n69.0\n11.0\n11.0\n0.0\n29.0\n17.0\n0.0\n0.0\n658.0\n\n\n268704\nMaximus\n2004\n0.0\n0.0\n0.0\n20.0\n95.0\n9.0\n10.0\n0.0\n...\n0.0\n59.0\n15.0\n13.0\n0.0\n18.0\n10.0\n0.0\n0.0\n579.0\n\n\n268705\nMaximus\n2005\n0.0\n0.0\n0.0\n31.0\n136.0\n20.0\n0.0\n0.0\n...\n11.0\n52.0\n10.0\n11.0\n0.0\n22.0\n18.0\n0.0\n0.0\n732.0\n\n\n268706\nMaximus\n2006\n0.0\n0.0\n6.0\n24.0\n122.0\n11.0\n7.0\n0.0\n...\n6.0\n61.0\n20.0\n11.0\n0.0\n24.0\n21.0\n0.0\n0.0\n754.0\n\n\n268707\nMaximus\n2007\n0.0\n0.0\n6.0\n26.0\n156.0\n14.0\n10.0\n0.0\n...\n18.0\n80.0\n23.0\n14.0\n0.0\n28.0\n32.0\n0.0\n0.0\n964.0\n\n\n268708\nMaximus\n2008\n0.0\n6.0\n5.0\n51.0\n217.0\n22.0\n15.0\n0.0\n...\n14.0\n122.0\n19.0\n16.0\n0.0\n44.0\n30.0\n5.0\n0.0\n1333.0\n\n\n268709\nMaximus\n2009\n0.0\n10.0\n7.0\n52.0\n201.0\n29.0\n11.0\n0.0\n...\n24.0\n129.0\n24.0\n25.0\n0.0\n28.0\n36.0\n10.0\n0.0\n1376.0\n\n\n268710\nMaximus\n2010\n9.0\n14.0\n9.0\n43.0\n234.0\n31.0\n10.0\n0.0\n...\n21.0\n132.0\n19.0\n32.0\n0.0\n44.0\n28.0\n12.0\n0.0\n1458.0\n\n\n268711\nMaximus\n2011\n8.0\n14.0\n8.0\n43.0\n236.0\n32.0\n20.0\n0.0\n...\n24.0\n145.0\n47.0\n35.0\n0.0\n42.0\n37.0\n10.0\n7.0\n1633.0\n\n\n268712\nMaximus\n2012\n5.0\n15.0\n12.0\n56.0\n296.0\n37.0\n14.0\n0.0\n...\n22.0\n166.0\n26.0\n39.0\n0.0\n41.0\n46.0\n6.0\n0.0\n1824.0\n\n\n268713\nMaximus\n2013\n9.0\n11.0\n8.0\n53.0\n306.0\n39.0\n16.0\n0.0\n...\n35.0\n200.0\n39.0\n23.0\n0.0\n46.0\n31.0\n9.0\n5.0\n1918.0\n\n\n268714\nMaximus\n2014\n10.0\n10.0\n13.0\n74.0\n360.0\n33.0\n17.0\n5.0\n...\n21.0\n189.0\n43.0\n42.0\n0.0\n49.0\n34.0\n10.0\n0.0\n2122.0\n\n\n268715\nMaximus\n2015\n13.0\n15.0\n11.0\n76.0\n309.0\n30.0\n16.0\n0.0\n...\n29.0\n214.0\n30.0\n43.0\n0.0\n50.0\n36.0\n6.0\n0.0\n2031.0\n\n\n\n\n16 rows × 54 columns\n\n\n\n\n\n\nShow the code\nfig = px.scatter(name_unique, x=\"year\", y=\"Total\",color=\"name\", title= \"Popularity over time for Maximus\") \n\n\nfig.add_annotation(\n    x=\"2000\",\n    y=155,\n    text=\"Starting point\",\n    showarrow=True,\n    arrowhead=1\n)\n\nfig.add_annotation(\n    x=\"2014\",\n    y=2122,\n    text=\"Peak\",\n    showarrow=True,\n    arrowhead=1\n)\n\nfig.show()\n\n\n                                                \n\n\n\n\nQUESTION|(Stretch)\nReproduce the chart Elliot using the data from the names_year.csv file.\n\n\nShow the code\n# name_stretch = df.query(\"name == 'Elliot'\")\nname_stretch = (df\n    .query(\"name == 'Elliot' \")\n    .query(\"year &gt;= 1950 and year &lt;= 2020\")\n    )\nname_stretch\n\n\n\n\n\n\n\n\n\n\nname\nyear\nAK\nAL\nAR\nAZ\nCA\nCO\nCT\nDC\n...\nTN\nTX\nUT\nVA\nVT\nWA\nWI\nWV\nWY\nTotal\n\n\n\n\n118726\nElliot\n1950\n0.0\n0.0\n0.0\n0.0\n8.0\n0.0\n0.0\n0.0\n...\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n152.0\n\n\n118727\nElliot\n1951\n0.0\n0.0\n0.0\n0.0\n8.0\n0.0\n0.0\n7.0\n...\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n174.0\n\n\n118728\nElliot\n1952\n0.0\n0.0\n0.0\n0.0\n7.0\n0.0\n0.0\n0.0\n...\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n167.0\n\n\n118729\nElliot\n1953\n0.0\n0.0\n0.0\n0.0\n8.0\n0.0\n0.0\n0.0\n...\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n113.0\n\n\n118730\nElliot\n1954\n0.0\n0.0\n0.0\n0.0\n5.0\n0.0\n0.0\n0.0\n...\n0.0\n0.0\n0.0\n0.0\n0.0\n0.0\n6.0\n0.0\n0.0\n127.0\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n118787\nElliot\n2011\n0.0\n16.0\n0.0\n25.5\n80.5\n21.0\n24.0\n0.0\n...\n14.0\n56.0\n13.0\n17.0\n0.0\n29.0\n48.0\n0.0\n0.0\n891.5\n\n\n118788\nElliot\n2012\n7.0\n11.0\n7.0\n15.5\n88.5\n21.0\n17.0\n12.0\n...\n15.5\n63.0\n7.5\n38.0\n0.0\n33.0\n52.0\n5.0\n0.0\n1042.5\n\n\n118789\nElliot\n2013\n5.0\n9.5\n10.0\n13.0\n85.5\n19.0\n16.0\n6.0\n...\n13.0\n67.5\n17.0\n20.5\n0.0\n29.5\n53.0\n0.0\n0.0\n1064.5\n\n\n118790\nElliot\n2014\n9.0\n10.0\n10.5\n24.5\n112.5\n24.0\n16.0\n8.0\n...\n22.0\n78.5\n12.5\n35.0\n0.0\n24.5\n35.5\n0.0\n0.0\n1199.0\n\n\n118791\nElliot\n2015\n11.0\n10.0\n15.5\n24.5\n130.0\n20.0\n24.0\n6.0\n...\n15.5\n81.5\n15.0\n23.0\n0.0\n35.0\n43.0\n0.0\n0.0\n1250.0\n\n\n\n\n66 rows × 54 columns\n\n\n\n\n\n\nShow the code\nfig = px.line(name_stretch, x=\"year\", y=\"Total\",color=\"name\", title= \"Elliot... What?\", width=900, height=500 ) \n\n\nfig.add_vline(\n  x=1982.5,\n  annotation_text=\"E.T Released\",annotation_position=\"top left\",\n  line_width=3, \n  line_dash=\"dash\",\n  line_color=\"red\"\n),\n\nfig.add_vline(\n  x=1985,\n  annotation_text=\"Second Released\",\n  line_width=3, \n  line_dash=\"dash\",\n  line_color=\"red\"\n),\n\nfig.add_vline(\n  x=2002,\n  annotation_text=\"Third Released\",\n  line_width=3, \n  line_dash=\"dash\",\n  line_color=\"red\"\n)\n\nfig.add_annotation(\n    x=\"2020\",\n    showarrow=True\n)\nfig.show()\n\n\n                                                \n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
+      "Data Cleansing",
       "Project 1"
     ]
   },
   {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
+      "Data Cleansing",
       "Project 3"
     ]
   },
@@ -455,34 +264,129 @@
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
+    "objectID": "competition.html",
+    "href": "competition.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Jenny Asquith",
+    "section": "Experience",
+    "text": "Experience\nFull-Time Volunteer Representative\nThe Church of Jesus Christ of Latter-day Saints\n• Located in Kansai region, Japan for 18 months to coordinate with other volunteers, assist in teaching English classes and participate in religious volunteering activities\n• Mentored 3 new volunteers to enhance their skills for the service\n• Became proficient in communication, interpersonal, English and Japanese skills"
+  },
+  {
+    "objectID": "resume.html#additional-information",
+    "href": "resume.html#additional-information",
+    "title": "Jenny Asquith",
+    "section": "Additional Information",
+    "text": "Additional Information\n• Hard Skills: SQL Server Management Studio, Database Administration, SQL, MySQL, Data Visualization, Data Analytics, Excel, Python, C#, HTML5, CSS, JavaScript\n• Soft skills: Detail oriented, Critical thinking, Teamwork & collaboration, Work ethic, Digital technology, Strong communication skills\n• Certifications: Web and Computer Programing Certificate (2023), Database (in progress)"
   }
 ]

@@ -1,7 +1,7 @@
 ---
-title: "Client Report - [Insert Project Title]"
+title: "Client Report - [Project 1]"
 subtitle: "Course DS 250"
-author: "[STUDENT NAME]"
+author: "[Jenny Asquith]"
 format:
   html:
     self-contained: true
@@ -25,4 +25,202 @@ execute:
     
 ---
 
-### Paste in a template
+```{python}
+#| label: libraries
+#| include: false
+import pandas as pd
+import numpy as np
+import plotly.express as px
+```
+
+### Elevator pitch
+This project will bring satisfaction to our clients, who have had a passion for names throughout history. It provides dynamic charts and graphs, enabling our clients to explore the data more deeply and gain better insights into how often specific names were given to children in a particular year. Additionally, our clients can examine how the usage of names, especially a name from a famous movie, has changed over time. Moreover, we will analyze how the popularity of the names Mary, Martha, Peter, and Paul has shifted from 1920 to 2000.
+
+
+```{python}
+#| label: project-data
+#| code-summary: Read and format project data
+# Include and execute your code here
+df = pd.read_csv("https://raw.githubusercontent.com/byuidatascience/data4names/master/data-raw/names_year/names_year.csv")
+df
+
+```
+
+### QUESTION|TASK 1
+__How does your name at your birth year compare to its use historically?__
+
+_I chose to analyze the name Oliver and the year 2010 to find out its historical trends. Starting in 1910, the total number of occurrences of the name 'Oliver' was 279. The trend continued to increase, peaking in the year 2015 with 11,592 occurrences._
+
+```{python}
+name = df.query("name == 'Oliver'") 
+name
+```
+
+```{python}
+fig = px.line(name, x="year", y="Total", title= "Popularity over time for Oliver") 
+
+fig.add_annotation(
+    x="1910",
+    y=279,
+    text="Starting point",
+    showarrow=True, 
+    arrowhead=1
+)
+
+fig.add_annotation(
+    x="2015",
+    y=11592,
+    text="Peak",
+    showarrow=True, 
+    arrowhead=1
+)
+
+fig.show()
+```
+
+
+### QUESTION|TASK 2
+__If you talked to someone named Brittany on the phone, what is your guess of his or her age? What ages would you not guess?__
+
+_People named Brittany should be between 9 and 56 years old. Based on the results of the database, we observe that the name Brittany began appearing in the year 1968 with a total of 5 occurrences, reached its peak in 1990 with 32,563 occurrences, and then gradually declined, ceasing altogether in 2015 with a total of 636 occurrences._
+
+```{python}
+name_Bri = df.query("name == 'Brittany'") 
+name_Bri
+```
+
+```{python}
+fig = px.line(name_Bri, x="year", y="Total", title= "Popularity over time for Brittany") 
+
+fig.add_annotation(
+    x="1968",
+    y=5,
+    text="Starting point",
+    showarrow=True,
+    arrowhead=1
+)
+fig.add_annotation(
+    x="2015",
+    y=636,
+    text="Ending point",
+    showarrow=True,
+    arrowhead=1
+)
+
+fig.add_annotation(
+    x="1990",
+    y=32563,
+    text="Peak",
+    showarrow=True,
+    arrowhead=1
+)
+fig.show()
+
+```
+
+### QUESTION|TASK 3
+__Mary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names. What trends do you notice?__
+
+_We can see that starting in the year 1920, Mary was the most popular name, followed by Paul, then Martha, and Peter was the least popular at that time. They reached their peaks around the 1950s. Then they gradually decreased, ceasing altogether in the 2000s._
+
+
+
+```{python}
+name_Four = (df
+    .query("name in ['Martha', 'Mary', 'Peter', 'Paul']")
+    .query("year >= 1920 and year <= 2000")
+    )
+name_Four
+```
+
+
+``` {python}
+fig = px.line(name_Four, x="year", y="Total",color="name", title= "Popularity over time for Mary, Martha, Peter, and Paul") 
+
+fig.show()
+```
+
+
+### QUESTION|TASK 4
+__Think of a unique name from a famous movie. Plot the usage of that name and see how changes line up with the movie release. Does it look like the movie had an effect on usage?__
+
+
+_I chose to analyze the name Maximus from the famous movie Gladiator, released in 2000. After the year 2000, the name Maximus became increasingly popular. It reached its peak in 2014 with 2,122 occurrences. In the following year, it declined to 2,031 occurrences. In conclusion, the movie definitely had an effect on its usage._
+
+```{python}
+name_unique = df.query("name == 'Maximus'") 
+name_unique
+```
+
+```{python}
+fig = px.scatter(name_unique, x="year", y="Total",color="name", title= "Popularity over time for Maximus") 
+
+
+fig.add_annotation(
+    x="2000",
+    y=155,
+    text="Starting point",
+    showarrow=True,
+    arrowhead=1
+)
+
+fig.add_annotation(
+    x="2014",
+    y=2122,
+    text="Peak",
+    showarrow=True,
+    arrowhead=1
+)
+
+fig.show()
+```
+
+### QUESTION|(Stretch)
+__Reproduce the chart Elliot using the data from the names_year.csv file.__
+
+```{python}
+# name_stretch = df.query("name == 'Elliot'")
+name_stretch = (df
+    .query("name == 'Elliot' ")
+    .query("year >= 1950 and year <= 2020")
+    )
+name_stretch
+```
+
+```{python}
+
+fig = px.line(name_stretch, x="year", y="Total",color="name", title= "Elliot... What?", width=900, height=500 ) 
+
+
+fig.add_vline(
+  x=1982.5,
+  annotation_text="E.T Released",annotation_position="top left",
+  line_width=3, 
+  line_dash="dash",
+  line_color="red"
+),
+
+fig.add_vline(
+  x=1985,
+  annotation_text="Second Released",
+  line_width=3, 
+  line_dash="dash",
+  line_color="red"
+),
+
+fig.add_vline(
+  x=2002,
+  annotation_text="Third Released",
+  line_width=3, 
+  line_dash="dash",
+  line_color="red"
+)
+
+fig.add_annotation(
+    x="2020",
+    showarrow=True
+)
+fig.show()
+```
+
+
