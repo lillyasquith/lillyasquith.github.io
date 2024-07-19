@@ -19,7 +19,7 @@ Student at BYU-Idaho
 
 ### Specialized in
 
-`Web Development | Databases`
+`Web Development & Databases`
 
 Laguages: Python · C# · HTML5 · CSS · JavaScript · SQL · MySQL · SQL Server Management Studio
 
